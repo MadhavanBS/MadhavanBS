@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hello there, I'm Madhavan! 👋
 
-<!--
-**MadhavanBS/MadhavanBS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Machine Learning Engineer / Data Scientist with orchestration skills. I specialize in building ML systems and deploying them as microservices.
 
-Here are some ideas to get you started:
+I'm currently pursuing my **Master's in Computer Science (ML Specialization)** at **Georgia Institute of Technology**, expected to graduate in December 2026.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main interests are:
+- NLP & GenAI
+- Time series analysis & forecasting
+- Traditional ML
+- Microservices
+
+I'm currently a Graduate Teaching Assistant for Bayesian Statistics course (ISYE 6420), and part of the SocWeb Lab under Prof. Munmun De Choudhury, working on a UN Analysis Project (Jan 2026 – Present).
+
+Previously, I worked for **3+ years as a Machine Learning Engineer at Robert Bosch**, where I:
+
+- Designed and deployed an NLP pipeline for the Bosch Automation Platform team, processing thousands of documents for 500+ customers.
+- Built a multimodal ML + physics-based predictive maintenance system with the Bosch Digital Twin team, covering fault diagnosis, RUL prediction, and time series forecasting for 200+ industrial machines.
+
+**I'm currently looking for full-time opportunities in the U.S. starting January 2027 (F-1 STEM OPT).** I'm open to onsite, hybrid, or remote roles and willing to relocate anywhere in the country. I'm interested in Data Scientist, AI Scientist, AI Engineer, and Machine Learning Engineer roles.
+
+Feel free to reach out at: madhavanbs1904@gmail.com
+
+**Interests**
+
+NLP · GenAI · LLM · Time Series Forecasting · ML Deployment · Microservices
