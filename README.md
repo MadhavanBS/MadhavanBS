@@ -2,7 +2,7 @@
 
 I'm a Machine Learning Engineer / Data Scientist with orchestration skills. I specialize in building ML systems and deploying them as microservices.
 
-I'm currently pursuing my **Master's in Computer Science (ML Specialization)** at **Georgia Institute of Technology**, expected to graduate in December 2026/ May 2027.
+I'm currently pursuing my **Master's in Computer Science (ML Specialization)** at **Georgia Institute of Technology**, expected to graduate in December 2026 / May 2027.
 
 My main interests are:
 - NLP & GenAI
