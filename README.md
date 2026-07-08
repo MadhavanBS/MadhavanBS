@@ -7,10 +7,10 @@ I'm currently pursuing my **Master's in Computer Science (ML Specialization)** a
 My main interests are:
 - NLP & GenAI
 - Time series analysis & forecasting
-- Traditional ML
+- ML systems
 - Microservices
 
-I'm currently a Graduate Teaching Assistant for Bayesian Statistics course (ISYE 6420), and part of the SocWeb Lab under Prof. Munmun De Choudhury, working on a UN Analysis Project (Jan 2026 – Present).
+I'm currently a Graduate Teaching Assistant for Bayesian Statistics course (ISYE 6420), and part of the SocWeb Lab under Prof. Munmun De Choudhury, working on a UN Analysis Project at Georgia Tech (Jan 2026 – Present).
 
 Previously, I worked for **3+ years as a Machine Learning Engineer at Robert Bosch**, where I:
 
