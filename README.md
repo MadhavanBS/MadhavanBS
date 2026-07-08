@@ -17,8 +17,8 @@ Previously, I worked for **3+ years as a Machine Learning Engineer at Robert Bos
 - Designed and deployed an NLP pipeline for the Bosch Automation Platform team, processing thousands of documents for 500+ customers.
 - Built a multimodal ML + physics-based predictive maintenance system with the Bosch Digital Twin team, covering fault diagnosis, RUL prediction, and time series forecasting for 200+ industrial machines.
 
-Feel free to reach out at: madhavanbs1904@gmail.com
-
 **Interests**
 
 NLP · GenAI · LLM · Time Series Forecasting · ML Deployment · Microservices
+
+Feel free to reach out at: madhavanbs1904@gmail.com
